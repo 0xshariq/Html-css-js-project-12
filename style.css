@@ -1,0 +1,15 @@
+.btn{
+  border-radius : 10px;
+  background-color: #4CAF50;
+  border: solid 2px white;
+  color: gold;
+  padding: 10px;
+  justify-content: center;
+}
+#otp{
+  color: gold;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  
+}
